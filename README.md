@@ -3,6 +3,7 @@
 
 1. Custom motd
 2. Modify client handshake packet
+3. Whitelist with SQL
 
 ## How To Use
 
